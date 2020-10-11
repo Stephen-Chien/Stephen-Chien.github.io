@@ -10,8 +10,8 @@ comments: true
 
 ## Answers to Questions
 
-1. The species of iris that have the longest petals is Iris Virginica.
-2. The species of iris that have the widest sepals is Iris Setosa.
+1. The species of iris that has the longest petals is Iris Virginica.
+2. The species of iris that has the widest sepals is Iris Setosa.
 
 
 ## Lab
