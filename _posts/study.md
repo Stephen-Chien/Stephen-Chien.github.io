@@ -6,8 +6,6 @@ tags: [ArtofData]
 comments: true
 ---
 
-# Iris Lab 
-
 ## Eating Chocolate Loses Weight?
 
 a. In this [experiment](http://melaniestefan.net/Bohannon.pdf), a group of people were instructed to eat chocolate and monitor their BMI and weight as well as other factors while on a low-carb diet.  Another group was instructed to continue eating the low-carb diet, but without chocolate. Yet, the sample size was only 16 people and the research had too many factors. 
