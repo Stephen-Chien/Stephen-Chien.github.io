@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Study
-subtitle: 
+subtitle: Chocolate Study
 tags: [ArtofData]
 comments: true
 ---
