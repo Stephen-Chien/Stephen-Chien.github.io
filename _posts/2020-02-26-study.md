@@ -12,5 +12,6 @@ a. In this [experiment](http://melaniestefan.net/Bohannon.pdf), a group of peopl
 
 
 b. I don't trust their research, because there were too few people involved with the experiment, so it wouldn't be an accurate representation of the entire population. 
+
 c. They might have felt coerced to publish for monetary gain or for recogization, as it is remarkable that chocolate could lose weight if it was true. 
 
