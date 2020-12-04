@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wind Turbine
-subtitle: Second Lab!
+subtitle: Discussion!
 tags: [ArtofData]
 comments: true
 ---
