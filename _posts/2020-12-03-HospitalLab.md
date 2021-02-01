@@ -9,7 +9,7 @@ comments: true
 
 ## County
 
-The county that has the most hospital beds per person is **New York County**
+The county that has the most hospital beds per person is **New York County**!
 
 ## Obtaining and Cleaning Dataset
 
